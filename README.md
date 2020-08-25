@@ -14,7 +14,7 @@ This is the NodeJS version of our "Tonkotsu" workshop webapp. The codebase is pr
 ![out](https://user-images.githubusercontent.com/1078545/57860396-bc7ff380-77ec-11e9-8f55-83b879e667d2.gif)
 
 
-There are some built-in unit tests to ensure that everything can be verified.
+There are some built-in unit tests to ensure that everything can be verified
 
 ### Instructions
 
